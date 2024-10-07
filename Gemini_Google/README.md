@@ -1,5 +1,5 @@
-#Funciton Calling using Gemini from Google.
-[https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_keyword_header.width-1200.format-webp.webp](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SS.width-1300.jpg)
+#Funciton Calling using Gemini from Google.<br>
+![Gemini](Gemini.png)
 ---
 ### Advantages.
 - The model can define the funcitons from its docs without needing to define it yourself, but write the docs with a specific style.
