@@ -1,4 +1,4 @@
-#Funciton Calling using Gemini from Google.<br>
+#Funciton Calling using Gemini from Google.<br><br><br>
 <img src="https://cdn-wp.bulksignature.com/wp-content/uploads/2024/02/Frame-876-1024x569.png">
 ---
 ### Advantages.
