@@ -1,5 +1,5 @@
 #Funciton Calling using Gemini from Google.<br>
-![Gemini](Gemini.png)
+<img src="https://cdn-wp.bulksignature.com/wp-content/uploads/2024/02/Frame-876-1024x569.png">
 ---
 ### Advantages.
 - The model can define the funcitons from its docs without needing to define it yourself, but write the docs with a specific style.
